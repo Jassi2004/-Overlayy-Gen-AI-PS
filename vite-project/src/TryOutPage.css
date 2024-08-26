@@ -1,0 +1,102 @@
+/* Basic CSS for the React Component */
+.app-container {
+    font-family: Arial, sans-serif;
+    color: #000;
+    text-align: center;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1c3fc9;
+    color: #fff;
+  }
+  
+  .navbar-logo {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .navbar-links a {
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* .navbar-login { */
+    /* background-color: #fff; */
+    /* color: #1c3fc9; */
+    /* padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; */
+  /* } */
+  .navbar-login button {
+    background-color: #fff;
+    color: #2a2a72;
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+  .main-content {
+    margin-top: 100px;
+    padding: 20px;
+  }
+  
+  .ai-badge {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #d1e0ff;
+    color: #1c3fc9;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .main-title {
+    font-size: 2.5em;
+    margin: 10px 0;
+  }
+  
+  .main-subtitle {
+    color: #777;
+    margin-bottom: 40px;
+  }
+  
+  .search-bar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search-input {
+    width: 400px;
+    padding: 15px;
+    border: 2px solid #1c3fc9;
+    border-radius: 5px 0 0 5px;
+    font-size: 1em;
+  }
+  
+  .search-button {
+    padding: 15px 20px;
+    background-color: #1c3fc9;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 1em;
+  }
+  .check-result-button{
+    border: 1px solid blue;
+    position: relative; 
+    width: 7rem;
+    height: 3rem;
+    top: 3rem;
+    left: 35rem;
+    color: blue;
+
+
+  }

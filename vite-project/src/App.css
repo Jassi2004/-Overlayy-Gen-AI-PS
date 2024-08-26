@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+.image-content img {
+    height: 45vh;
+    width: 25vw;
+}
+
+.navbar-login button {
+    border-radius: 20px !important;
+    /* border: 2px solid red !important; */
+    color: #3344E1 !important;
+    font-weight: bolder;
+}
+
+.text-content h3 {
+    
+    font-family: "Archivo", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 3rem;
+    color: #3344E1;
+    background: #e1e4ff;
+    border-radius: 100px;
+    height: 3rem;
+    width: 15rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-solid {
+    font-size: 1rem;
+    padding-right: 7px;
+}
+
+.text-content h2 {
+    font-family: "Archivo", sans-serif;
+    font-weight: 700;
+    font-size: 2.25rem; /* Changed 'size' to 'font-size' */
+    /* line-height: 163.2px; */
+    background: linear-gradient(to right, #000747, #3344E1); /* Use 'background' for gradient */
+    -webkit-background-clip: text; /* This clips the background to the text */
+    color: transparent; /* Make the text color transparent to show the gradient */
+}
+
+.text-content p {
+    font-family: "Archivo", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.try-now{
+    background: linear-gradient(to right, #3344E1, #000747 );;
+}
+
+.fa-rotate-by{
+    --fa-rotate-angle: 135deg;
+}
+
+/* .circle{
+    border-radius: 50%;
+    background: linear-gradient(to right, #000747, #3344E1);
+    z-index: 10;
+    padding-top: 500px;
+} */
+
+.text-content, .image-content{
+    margin: 0rem 5rem;
+}
