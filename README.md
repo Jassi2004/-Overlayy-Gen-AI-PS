@@ -1,6 +1,7 @@
 # -Overlayy-Gen-AI-PS
 
-# Read HOW TO RUN AS THE PROJECT IS STILL IN PROTOTYPE STAGE
+# Read HOW TO RUN as the project is still in prototype stage
+# The code is present in MASTER BRANCH
 
 # Objective:
 
