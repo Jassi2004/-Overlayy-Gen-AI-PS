@@ -30,9 +30,9 @@ The generative AI is done using python ollama, llama3.1
 
 # HOW TO RUN
 
-Step 1 - cd to nodeFolder./n
-Step 2 - run the node server using npm start
-Step 3 - go to another terminal and host the frontend folder named vite-project
+Step 1 - cd to nodeFolder.  
+Step 2 - run the node server using npm start  
+Step 3 - go to another terminal and host the frontend folder named vite-project  
 Step 4 - run the frontend using npm run dev
 Step 5 - on the landing page, click on try now
 Step 6 - paste the link of the web page you want the magic to be done on. (example - https://en.wikipedia.org/wiki/India) and click submit button
